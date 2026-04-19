@@ -1,4 +1,4 @@
-# TotalShield: A Multi-Layer Defense Framework Against Prompt Leakage Attacks
+# TotalShield: A Multi-Layered Defense Architecture for Robust Protection Against Prompt-Leaking Attacks on Large Language Models
 
 ## 🔐 Overview
 
