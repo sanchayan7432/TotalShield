@@ -254,7 +254,7 @@ Sanchayan Ghosh
 Mail me at - sanchayan.ghosh2022@gmail.com
 
 The research paper is cited on https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.19750397
-and published on https://zenodo.org/records/19750397 through International Journal of Science, Engineering and Technology.
+, published on https://zenodo.org/records/19750397 through International Journal of Science, Engineering and Technology and also cited on ResearchGate https://www.researchgate.net/publication/404227945_TotalShield_A_Multi-Layered_Defense_Architecture_for_Robust_Protection_Against_Prompt-Leaking_Attacks_on_Large_Language_Models.
 
 📜 License
 
